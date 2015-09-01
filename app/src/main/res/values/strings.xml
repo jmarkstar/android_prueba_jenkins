@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">AndroidJenkins</string>
 
-    <string name="hello_world">Hello Jenkins Android 2!</string>
+    <string name="hello_world">Hello Jenkins Android 4!</string>
     <string name="action_settings">Settings</string>
 </resources>
